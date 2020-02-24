@@ -1,0 +1,3 @@
+[submodule "git-subdemo"]
+	path = git-subdemo
+	url = https://github.com/zytxh/git-subdemo.git
